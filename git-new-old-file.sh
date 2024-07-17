@@ -2,7 +2,9 @@
 
 # Auther: zhengqingquan
 # 
-# Instructions
+# Date: 2024/07/17
+# 
+# Instructions:
 # This script has two parameters, the hash of two commit records.
 # It will generate the new and old files between the two commit records.
 # 
